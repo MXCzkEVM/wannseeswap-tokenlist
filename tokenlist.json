@@ -1,53 +1,56 @@
 {
-    "name": "Sensor Tokens",
-    "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.png",
-    "keywords": ["wannsee", "defi"],
-    "timestamp": "2021-05-27T20:37:00.000+00:00",
-    "tokens": [
-      {
-        "chainId": 5167003,
-        "address": "0x6807F4B0D75c59Ef89f0dbEF9841Fb23fFDF105D",
-        "name": "Wrap MXC Token",
-        "symbol": "WMXC",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.svg"
-      },
-      {
-        "chainId": 5167003,
-        "address": "0xB9506A80429Ee619C74D46a3276c622358795e2B",
-        "name": "XSD Token",
-        "symbol": "XSD",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/XSDTest.svg"
-      },
-      {
-        "chainId": 5167003,
-        "address": "0x499A9b11b3A107e7ac45217C3401b3D0bF36A24C",
-        "name": "Ride Token",
-        "symbol": "RIDE",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/bicycle.svg"
-      },
-      {
-        "chainId": 5167003,
-        "address": "0x850e2d6329C0A99d53C52571CFc7ff8C319159fe",
-        "name": "Park Token",
-        "symbol": "PARK",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/park.svg"
-      },
-      {
-        "chainId": 5167003,
-        "address": "0x8bC7cf83f5F83781Ec85B78d866222987Ae24657",
-        "name": "DHX Token",
-        "symbol": "DHX",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dhx.png"
-      }
-    ],
-    "version": {
-      "major": 2,
-      "minor": 0,
-      "patch": 0
+  "name": "Sensor Tokens",
+  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.svg",
+  "keywords": [
+    "wannsee",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 5167003,
+      "address": "0x6807F4B0D75c59Ef89f0dbEF9841Fb23fFDF105D",
+      "name": "Wrap MXC Token",
+      "symbol": "WMXC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+    },
+    {
+      "chainId": 5167003,
+      "address": "0xB9506A80429Ee619C74D46a3276c622358795e2B",
+      "name": "XSD Token",
+      "symbol": "XSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg"
+    },
+    {
+      "chainId": 5167003,
+      "address": "0x499A9b11b3A107e7ac45217C3401b3D0bF36A24C",
+      "name": "Ride Token",
+      "symbol": "RIDE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/ride.svg"
+    },
+    {
+      "chainId": 5167003,
+      "address": "0x850e2d6329C0A99d53C52571CFc7ff8C319159fe",
+      "name": "Park Token",
+      "symbol": "PARK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/park.svg"
+    },
+    {
+      "chainId": 5167003,
+      "address": "0x8bC7cf83f5F83781Ec85B78d866222987Ae24657",
+      "name": "DHX Token",
+      "symbol": "DHX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dhx.svg"
     }
-  }  
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
