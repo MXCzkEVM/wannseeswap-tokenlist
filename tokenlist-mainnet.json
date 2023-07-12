@@ -1,0 +1,32 @@
+{
+    "name": "Sensor Tokens",
+    "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.svg",
+    "keywords": [
+      "zkEVM Mainnet",
+      "defi"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 18686,
+        "address": "0xcBCE60BAD702026d6385E5f449e44099A655d14f",
+        "name": "Wrap MXC Token",
+        "symbol": "WMXC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+      },
+      {
+        "chainId": 18686,
+        "address": "0xcBCE60BAD702026d6385E5f449e44099A655d14f",
+        "name": "DIGI Token",
+        "symbol": "DG",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
+      }
+    ],
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "patch": 0
+    }
+  }
