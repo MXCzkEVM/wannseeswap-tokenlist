@@ -17,6 +17,22 @@
     },
     {
       "chainId": 5167003,
+      "address": "0xdCc959e6e731b1CcA695a9e28D39103Bd0ecdb05",
+      "name": "Digi Token",
+      "symbol": "DG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
+    },
+    {
+      "chainId": 5167003,
+      "address": "0x22Ec679a09254C86bCFB076080D8cedc24b878a0",
+      "name": "Doge Token",
+      "symbol": "Doge",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/doge.png"
+    },
+    {
+      "chainId": 5167003,
       "address": "0xB9506A80429Ee619C74D46a3276c622358795e2B",
       "name": "XSD Token",
       "symbol": "XSD",
