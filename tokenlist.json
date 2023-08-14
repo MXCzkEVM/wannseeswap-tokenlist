@@ -21,7 +21,7 @@
       "name": "Digi Token",
       "symbol": "DG",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/digi.svg"
     },
     {
       "chainId": 5167003,
@@ -29,7 +29,7 @@
       "name": "Doge Token",
       "symbol": "Doge",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/doge.png"
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/doge.svg"
     },
     {
       "chainId": 5167003,
