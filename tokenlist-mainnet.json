@@ -22,6 +22,14 @@
         "symbol": "DG",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
+      },
+      {
+        "chainId": 18686,
+        "address": "0x134487492475532610ce36544CD2C9Fc7f31169E",
+        "name": "XSD Token",
+        "symbol": "XSD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg"
       }
     ],
     "version": {
