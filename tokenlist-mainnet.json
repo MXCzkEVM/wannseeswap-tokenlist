@@ -30,6 +30,38 @@
         "symbol": "XSD",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg"
+      },
+      {
+        "chainId": 18686,
+        "address": "0xdE63cEAE0b7333643fad97c77Dbe18B1a4F0A8e5",
+        "name": "Sensor Token",
+        "symbol": "Sensor",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/sensor.svg"
+      },
+      {
+        "chainId": 18686,
+        "address": "0x7b4e2c22193F302b2C796987c08274EE94609257",
+        "name": "Gin1689 Coin",
+        "symbol": "GIN1689",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/gin1689.svg"
+      },
+      {
+        "chainId": 18686,
+        "address": "0x3EcaDBBB656BEFb356961eB6464D52c7377F369b",
+        "name": "Crab Token",
+        "symbol": "CRAB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/crab.svg"
+      },
+      {
+        "chainId": 18686,
+        "address": "0x6c3DE4DA02F30e300726c745bE485dFe04B2dD7a",
+        "name": "Maxis Token",
+        "symbol": "MAXIS",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg"
       }
     ],
     "version": {
