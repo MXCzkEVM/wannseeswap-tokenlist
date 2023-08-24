@@ -65,7 +65,7 @@
     },
     {
       "chainId": 5167003,
-      "address": "0x6b728357E3Dc2E9c3FAc640CE0e372744CB08473",
+      "address": "0x4c313363116cdfFA82B48225a634C359f8681aA5",
       "name": "Sensor Token",
       "symbol": "Sensor",
       "decimals": 18,
@@ -73,7 +73,7 @@
     },
     {
       "chainId": 5167003,
-      "address": "0x35b4380e225a35Ef37aee9584fDF8a9f26c03CC4",
+      "address": "0x3200b5Aa2C27bd0771F9E1378b175d2729d53402",
       "name": "Gin1689 Coin",
       "symbol": "GIN1689",
       "decimals": 18,
@@ -81,7 +81,7 @@
     },
     {
       "chainId": 5167003,
-      "address": "0x31728648CA567446347d7C764466008Da178D50d",
+      "address": "0xE642170eE88889e3539567C467474e09f10D6e30",
       "name": "Crab Token",
       "symbol": "CRAB",
       "decimals": 18,
@@ -89,7 +89,7 @@
     },
     {
       "chainId": 5167003,
-      "address": "0xDBfc252A406FAb963B17A5a73DbDb95b7B118279",
+      "address": "0x1c457428fA7fdE811641688029869a545121C00c",
       "name": "Maxis Token",
       "symbol": "MAXIS",
       "decimals": 18,
