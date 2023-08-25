@@ -1,0 +1,24 @@
+{
+    "name": "Eth Tokens",
+    "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/ethereum-eth-logo.svg",
+    "keywords": [
+      "Ethereum Chain",
+      "defi"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+        "name": "MXC Token",
+        "symbol": "MXC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+      }
+    ],
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "patch": 0
+    }
+  }
