@@ -62,6 +62,14 @@
         "symbol": "MAXIS",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg"
+      },
+      {
+        "chainId": 18686,
+        "address": "0x6D7800E127C23518ED776fd344Dc716DDF5b6699",
+        "name": "eip4844",
+        "symbol": "EIP4844",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/eip4844.svg"
       }
     ],
     "version": {
