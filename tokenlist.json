@@ -94,6 +94,14 @@
       "symbol": "MAXIS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg"
+    },
+    {
+      "chainId": 5167003,
+      "address": "0x230237d65e5726a28960b9A39359712Dbb8df08c",
+      "name": "xMXC",
+      "symbol": "xMXC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
     }
   ],
   "version": {
