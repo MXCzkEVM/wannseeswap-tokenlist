@@ -14,14 +14,6 @@
         "symbol": "MXC",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
-      },
-        {
-        "chainId": 1,
-        "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-        "name": "ETH Token",
-        "symbol": "ETH",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/ethereum-eth-logo.svg"
       }
     ],
     "version": {
