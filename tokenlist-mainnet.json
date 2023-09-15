@@ -62,6 +62,22 @@
         "symbol": "MAXIS",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg"
+      },
+        {
+        "chainId": 18686,
+        "address": "0xD9465eF5f7DF27Ac960D90d1d796c66C9234a264",
+        "name": "xMXC Token",
+        "symbol": "xMXC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+      },
+        {
+        "chainId": 18686,
+        "address": "0xe477ad7a379d285337762441c1f628b6818D6d23",
+        "name": "DHX Token",
+        "symbol": "DHX",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dhx.svg"
       }
     ],
     "version": {
