@@ -78,6 +78,14 @@
         "symbol": "DHX",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dhx.svg"
+      },
+        {
+        "chainId": 18686,
+        "address": "0xe168617332b43210C7215619CFc2e41194f3B0fd",
+        "name": "XDIGI Token",
+        "symbol": "XDG",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
       }
     ],
     "version": {
