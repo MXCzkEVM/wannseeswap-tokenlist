@@ -33,6 +33,14 @@
     },
     {
       "chainId": 5167003,
+      "address": "0xe5A4750553FEd2d328c69820bdEEee36E618f024",
+      "name": "Crypto Turtle",
+      "symbol": "Turtle",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/turtle.svg"
+    },
+    {
+      "chainId": 5167003,
       "address": "0xB9506A80429Ee619C74D46a3276c622358795e2B",
       "name": "XSD Token",
       "symbol": "XSD",
