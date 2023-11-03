@@ -94,6 +94,14 @@
         "symbol": "TAIL",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/tailz.svg"
+      },
+        {
+        "chainId": 18686,
+        "address": "0x5eB8Fa4664CD67aFD43B3b1666AAFe0c6d11ca6C",
+        "name": "Crypto Turtle",
+        "symbol": "TURTLE",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/turtle.svg"
       }
     ],
     "version": {
