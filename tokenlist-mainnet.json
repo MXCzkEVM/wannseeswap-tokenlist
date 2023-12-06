@@ -110,7 +110,15 @@
         "symbol": "TURTLE",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/turtle.svg"
-      }
+      },
+		{
+		  "chainId": 18186,
+		  "address": "0xf3D68dCE54d03d648c1D2e7475e3247942C69EF1",
+		  "name": "REFI Coin",
+		  "symbol": "REFI",
+		  "decimals": 18,
+		  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/20231206214715.svg"
+		}
     ],
     "version": {
       "major": 2,
