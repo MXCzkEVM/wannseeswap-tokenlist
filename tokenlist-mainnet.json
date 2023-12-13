@@ -121,7 +121,15 @@
 		  "symbol": "REFI",
 		  "decimals": 18,
 		  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/20231206214715.svg"
-		}
+		},
+        {
+        "chainId": 18686,
+        "address": "0x0A9400Eacfe9fd1C7C1bEa54689Bac1dD740e44C",
+        "name": "ChangShi Tea",
+        "symbol": "TEA",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/csTea.svg"
+      },
     ],
     "version": {
       "major": 2,
