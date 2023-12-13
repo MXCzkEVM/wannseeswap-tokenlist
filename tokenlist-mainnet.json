@@ -129,7 +129,7 @@
         "symbol": "TEA",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/csTea.svg"
-      },
+      }
     ],
     "version": {
       "major": 2,
