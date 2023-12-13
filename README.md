@@ -16,3 +16,9 @@ Note:
 2. To add new token to wannsee chain (testnet) - please modify "tokenlist.json"
 
 3. Try to have logo SVG file name same as token name for ease of differentiation 
+
+4. To add a new field called `introduction` for your token to give a summary just like a simple white paper
+
+5. To add a new field called `twitter` for your token to provide a token's X.com address
+
+6. To add a new field called `circulatingSupply` for your token to illustrate the supply
