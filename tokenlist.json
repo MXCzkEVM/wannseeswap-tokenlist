@@ -13,7 +13,8 @@
       "name": "Wrap MXC Token",
       "symbol": "WMXC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
+      "introduction":"for test"
     },
     {
       "chainId": 5167003,
