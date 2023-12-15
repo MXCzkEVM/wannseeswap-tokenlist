@@ -1,6 +1,10 @@
 {
-    "verified": {
+    5167003: {
         "verifiedTokenList": ["0x6807F4B0D75c59Ef89f0dbEF9841Fb23fFDF105D","0xcBCE60BAD702026d6385E5f449e44099A655d14f","0xd9465ef5f7df27ac960d90d1d796c66c9234a264","0x230237d65e5726a28960b9A39359712Dbb8df08c"],
+        "verifiedIcon": "https://cdn3.iconfinder.com/data/icons/basicolor-arrows-checks/24/154_check_ok_sticker_success-1024.png"
+    },
+    18686: {
+        "verifiedTokenList": ["0xd9465ef5f7df27ac960d90d1d796c66c9234a264","0x230237d65e5726a28960b9A39359712Dbb8df08c"],
         "verifiedIcon": "https://cdn3.iconfinder.com/data/icons/basicolor-arrows-checks/24/154_check_ok_sticker_success-1024.png"
     }
 }
