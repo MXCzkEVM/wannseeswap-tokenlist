@@ -17,7 +17,7 @@ Note:
 
 3. Try to have logo SVG file name same as token name for ease of differentiation 
 
-4. To add a new field called `introduction` for your token to give a summary just like a simple white paper（The maximum length is 500）。
+4. To add a new field called `introduction` for your token to give a summary just like a simple white paper(The maximum length is 500).
 
 5. To add a new field called `twitter` for your token to provide a token's X.com address(You just need to provide your Twitter account name).
 
