@@ -14,9 +14,9 @@
         "symbol": "WMXC",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
-	"introduction":"for test",
+	    "introduction":"Meta X Connect is a Layer3 scalability solution for Arbitrum with their zkEVM, allowing users to seamlessly onboard IoT devices to blockchain.",
         "twitter":"mxcfoundation",
-        "circulatingSupply":1000
+        "circulatingSupply":0
       },
       {
         "chainId": 18686,
@@ -24,7 +24,10 @@
         "name": "DIGI Token",
         "symbol": "DG",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg",
+        "introduction":"Digi builds a data-driven future with blockchain, AI, and cryptocurrency for a secure, transparent, Web3 ecosystem.",
+        "twitter":"Digi__DAO",
+        "circulatingSupply":10000000000
       },
       {
         "chainId": 18686,
@@ -32,7 +35,10 @@
         "name": "XSD Token",
         "symbol": "XSD",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg",
+        "introduction":"XSD is MXC's pioneering stablecoin backed by tangible assets, an un-depeggable token, ensuring a constant $ value.",
+        "twitter":"mxcfoundation",
+        "circulatingSupply":1075965
       },
       {
         "chainId": 18686,
@@ -40,7 +46,10 @@
         "name": "Sensor Token",
         "symbol": "Sensor",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/sensor.svg"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/sensor.svg",
+        "introduction":"Sensor Token is mined by miners, enables ISO token mining, used as fuel and allows you to boost your mining by up to 10x.",
+        "twitter":"mxcfoundation",
+        "circulatingSupply":21771109
       },
       {
         "chainId": 18686,
@@ -48,7 +57,10 @@
         "name": "Gin1689 Coin",
         "symbol": "GIN1689",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/gin1689.svg"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/gin1689.svg",
+        "introduction":"Gin 1689 guarantees authenticity and direct sourcing, ensuring each bottle is genuine and trustworthy.",
+        "twitter":"gin1689",
+        "circulatingSupply":9242889
       },
       {
         "chainId": 18686,
@@ -56,7 +68,10 @@
         "name": "Crab Token",
         "symbol": "CRAB",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/crab.svg"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/crab.svg",
+        "introduction":"Crab Token, IoT, NFT innovation empowers agriculture. Precision, real-time monitoring, blockchain integration for crab breeding. Future of smart farming.",
+        "twitter":"mxcfoundation",
+        "circulatingSupply":18087181
       },
       {
         "chainId": 18686,
@@ -64,7 +79,10 @@
         "name": "Maxis Token",
         "symbol": "MAXIS",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg",
+        "introduction":"MAXIS Token, Symbolizes unique MXC Kicks, blockchain-linked shoes. MAXIS Coin marks an exclusive shoe collection release.",
+        "twitter":"mxcfoundation",
+        "circulatingSupply":3298929
       },
         {
         "chainId": 18686,
@@ -72,7 +90,10 @@
         "name": "xMXC Token",
         "symbol": "xMXC",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
+          "introduction":"xMXC Token powers miners by fueling them up with xMXC, boosting mining performance up to 10x, optimizing mining operations.",
+          "twitter":"mxcfoundation",
+          "circulatingSupply":0
       },
         {
         "chainId": 18686,
@@ -104,7 +125,10 @@
         "name": "TAILZ Coin",
         "symbol": "TAIL",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/tailz.svg"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/tailz.svg",
+          "introduction":"Tailz established in 2022, is a ecosystem connecting Web3 enthusiasts with their pets, offering crypto rewards for pet walks. Redefining bonding with your pets.",
+          "twitter":"tailz_xyz",
+          "circulatingSupply":113706203
       },
         {
         "chainId": 18686,
