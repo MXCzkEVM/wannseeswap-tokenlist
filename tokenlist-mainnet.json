@@ -152,7 +152,10 @@
         "name": "ChangShi Tea",
         "symbol": "TEA",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/csTea.svg"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/csTea.svg",
+	"introduction":"Founded in 2018, Chang Shi Tea specializes in Pu'er tea, aiming to promote Chinese tea culture and create unique experiences, pioneering in tea NFTs using MXC IoT. Follow us @ChangShiTea",
+        "twitter":"ChangShiTea",
+        "circulatingSupply":21000000
       }
     ],
     "version": {
