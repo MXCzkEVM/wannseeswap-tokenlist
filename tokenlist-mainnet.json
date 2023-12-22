@@ -164,7 +164,7 @@
 		  "symbol": "DePIN ",
 		  "decimals": 18,
 		  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/depin.svg"
-		},
+		}
     ],
     "version": {
       "major": 2,
