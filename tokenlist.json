@@ -14,9 +14,9 @@
       "symbol": "WMXC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
-      "introduction":"for test",
-      "twitter":"mxcfoundation",
-      "circulatingSupply":1000
+      "introduction": "for test",
+      "twitter": "mxcfoundation",
+      "circulatingSupply": 1000
     },
     {
       "chainId": 5167003,
@@ -121,6 +121,14 @@
       "symbol": "TAIL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/tailz.svg"
+    }
+    {
+      "chainId": 5167003,
+      "address": "0x928ACF6F490390492e274DF53523C224DeBc9735",
+      "name": "odpo",
+      "symbol": "odpo",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dp.svg"
     }
   ],
   "version": {
