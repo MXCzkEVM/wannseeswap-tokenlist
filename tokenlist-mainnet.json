@@ -164,7 +164,15 @@
 	"introduction":"Founded in 2018, Chang Shi Tea specializes in Pu'er tea, aiming to promote Chinese tea culture and create unique experiences, pioneering in tea NFTs using MXC IoT. Follow us @ChangShiTea",
         "twitter":"ChangShiTea",
         "circulatingSupply":21000000
-      }
+      },
+    {
+      "chainId": 5167003,
+      "address": "0x928ACF6F490390492e274DF53523C224DeBc9735",
+      "name": "odpo",
+      "symbol": "odpo",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dp.svg"
+    }
     ],
     "version": {
       "major": 2,
