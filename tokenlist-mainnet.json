@@ -172,7 +172,16 @@
       "symbol": "odpo",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dp.svg"
-    }
+    },
+	{
+		  "chainId": 18686,
+		  "address": "0xaB3Cf41BFc8e4FEf499aa07D55abc31188869c80",
+		  "name": "Cancun Deneb",
+		  "symbol": "Dencun",
+		  "decimals": 18,
+		  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/decun.svg"
+	}
+		
     ],
     "version": {
       "major": 2,
