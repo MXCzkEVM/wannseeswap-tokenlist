@@ -1,170 +1,170 @@
 {
-    "name": "Sensor Tokens",
-    "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.svg",
-    "keywords": [
-      "zkEVM Mainnet",
-      "defi"
-    ],
-    "timestamp": "2021-05-27T20:37:00.000+00:00",
-    "tokens": [
-      {
-        "chainId": 18686,
-        "address": "0xcBCE60BAD702026d6385E5f449e44099A655d14f",
-        "name": "Wrap MXC Token",
-        "symbol": "WMXC",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
-	    "introduction":"Meta X Connect is a Layer3 scalability solution for Arbitrum with their zkEVM, allowing users to seamlessly onboard IoT devices to blockchain.",
-        "twitter":"mxcfoundation",
-        "circulatingSupply":0
-      },
-      {
-        "chainId": 18686,
-        "address": "0x77E5a8bE0bb40212458A18dEC1A9752B04Cb6EA1",
-        "name": "DIGI Token",
-        "symbol": "DG",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg",
-        "introduction":"Digi builds a data-driven future with blockchain, AI, and cryptocurrency for a secure, transparent, Web3 ecosystem.",
-        "twitter":"Digi__DAO",
-        "circulatingSupply":10000000000
-      },
-      {
-        "chainId": 18686,
-        "address": "0x7d2016B09BF46A7CAABD3b45f9e1D6C485A2c729",
-        "name": "XSD Token",
-        "symbol": "XSD",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg",
-        "introduction":"XSD is MXC's pioneering stablecoin backed by tangible assets, an un-depeggable token, ensuring a constant $ value.",
-        "twitter":"mxcfoundation",
-        "circulatingSupply":1075965
-      },
-      {
-        "chainId": 18686,
-        "address": "0x9760aB142eA2237A047A2f46Ac3AD916e7aABd52",
-        "name": "Sensor Token",
-        "symbol": "Sensor",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/sensor.svg",
-        "introduction":"Sensor Token is mined by miners, enables ISO token mining, used as fuel and allows you to boost your mining by up to 10x.",
-        "twitter":"mxcfoundation",
-        "circulatingSupply":21771109
-      },
-      {
-        "chainId": 18686,
-        "address": "0xC7e0C30915aC225e4804AaEFC0707795B26C9108",
-        "name": "Gin1689 Coin",
-        "symbol": "GIN1689",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/gin1689.svg",
-        "introduction":"Gin 1689 guarantees authenticity and direct sourcing, ensuring each bottle is genuine and trustworthy.",
-        "twitter":"gin1689",
-        "circulatingSupply":9242889
-      },
-      {
-        "chainId": 18686,
-        "address": "0x432DA7aC74e83417d4c683ff283bBB8F7E8B09b8",
-        "name": "Crab Token",
-        "symbol": "CRAB",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/crab.svg",
-        "introduction":"Crab Token, IoT, NFT innovation empowers agriculture. Precision, real-time monitoring, blockchain integration for crab breeding. Future of smart farming.",
-        "twitter":"mxcfoundation",
-        "circulatingSupply":18087181
-      },
-      {
-        "chainId": 18686,
-        "address": "0x7eB14d2cF852aD5E20dd46Af3D2ddA87A1E67bAf",
-        "name": "Maxis Token",
-        "symbol": "MAXIS",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg",
-        "introduction":"MAXIS Token, Symbolizes unique MXC Kicks, blockchain-linked shoes. MAXIS Coin marks an exclusive shoe collection release.",
-        "twitter":"mxcfoundation",
-        "circulatingSupply":3298929
-      },
-        {
-        "chainId": 18686,
-        "address": "0xD9465eF5f7DF27Ac960D90d1d796c66C9234a264",
-        "name": "xMXC Token",
-        "symbol": "xMXC",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
-          "introduction":"xMXC Token powers miners by fueling them up with xMXC, boosting mining performance up to 10x, optimizing mining operations.",
-          "twitter":"mxcfoundation",
-          "circulatingSupply":0
-      },
-        {
-        "chainId": 18686,
-        "address": "0x84AB8c50d33C08B079A10883eD7d1f563990DFE4",
-        "name": "xbMXC Token",
-        "symbol": "xbMXC",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
-      },
-        {
-        "chainId": 18686,
-        "address": "0xe477ad7a379d285337762441c1f628b6818D6d23",
-        "name": "DHX Token",
-        "symbol": "DHX",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dhx.svg"
-      },
-        {
-        "chainId": 18686,
-        "address": "0x6c1664332EFdAd3517cDfBA99c0435098428c4bA",
-        "name": "XDIGI Token",
-        "symbol": "XDG",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
-      },
-        {
-        "chainId": 18686,
-        "address": "0xbccae479722530Ff9326FEc0cE8c15B4a79C6bD8",
-        "name": "TAILZ Coin",
-        "symbol": "TAIL",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/tailz.svg",
-          "introduction":"Tailz established in 2022, is a ecosystem connecting Web3 enthusiasts with their pets, offering crypto rewards for pet walks. Redefining bonding with your pets.",
-          "twitter":"tailz_xyz",
-          "circulatingSupply":113706203
-      },
-        {
-        "chainId": 18686,
-        "address": "0x5eB8Fa4664CD67aFD43B3b1666AAFe0c6d11ca6C",
-        "name": "Crypto Turtle",
-        "symbol": "TURTLE",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/turtle.svg"
-      },
-	  	{
-		  "chainId": 18686,
-		  "address": "0xaF0B5b9eDEdf8B5e4F4b1062266Da104d0a2F48E",
-		  "name": "DePIN  Coin",
-		  "symbol": "DePIN",
-		  "decimals": 18,
-		  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/depin.svg"
-		},
-		{
-		  "chainId": 18686,
-		  "address": "0xf3D68dCE54d03d648c1D2e7475e3247942C69EF1",
-		  "name": "REFI Coin",
-		  "symbol": "REFI",
-		  "decimals": 18,
-		  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/20231206214715.svg"
-		},
-        {
-        "chainId": 18686,
-        "address": "0x0A9400Eacfe9fd1C7C1bEa54689Bac1dD740e44C",
-        "name": "ChangShi Tea",
-        "symbol": "TEA",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/csTea.svg",
-	"introduction":"Founded in 2018, Chang Shi Tea specializes in Pu'er tea, aiming to promote Chinese tea culture and create unique experiences, pioneering in tea NFTs using MXC IoT. Follow us @ChangShiTea",
-        "twitter":"ChangShiTea",
-        "circulatingSupply":21000000
-      },
+  "name": "Sensor Tokens",
+  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.svg",
+  "keywords": [
+    "zkEVM Mainnet",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 18686,
+      "address": "0xcBCE60BAD702026d6385E5f449e44099A655d14f",
+      "name": "Wrap MXC Token",
+      "symbol": "WMXC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
+      "introduction": "Meta X Connect is a Layer3 scalability solution for Arbitrum with their zkEVM, allowing users to seamlessly onboard IoT devices to blockchain.",
+      "twitter": "mxcfoundation",
+      "circulatingSupply": 0
+    },
+    {
+      "chainId": 18686,
+      "address": "0x77E5a8bE0bb40212458A18dEC1A9752B04Cb6EA1",
+      "name": "DIGI Token",
+      "symbol": "DG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg",
+      "introduction": "Digi builds a data-driven future with blockchain, AI, and cryptocurrency for a secure, transparent, Web3 ecosystem.",
+      "twitter": "Digi__DAO",
+      "circulatingSupply": 10000000000
+    },
+    {
+      "chainId": 18686,
+      "address": "0x7d2016B09BF46A7CAABD3b45f9e1D6C485A2c729",
+      "name": "XSD Token",
+      "symbol": "XSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg",
+      "introduction": "XSD is MXC's pioneering stablecoin backed by tangible assets, an un-depeggable token, ensuring a constant $ value.",
+      "twitter": "mxcfoundation",
+      "circulatingSupply": 1075965
+    },
+    {
+      "chainId": 18686,
+      "address": "0x9760aB142eA2237A047A2f46Ac3AD916e7aABd52",
+      "name": "Sensor Token",
+      "symbol": "Sensor",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/sensor.svg",
+      "introduction": "Sensor Token is mined by miners, enables ISO token mining, used as fuel and allows you to boost your mining by up to 10x.",
+      "twitter": "mxcfoundation",
+      "circulatingSupply": 21771109
+    },
+    {
+      "chainId": 18686,
+      "address": "0xC7e0C30915aC225e4804AaEFC0707795B26C9108",
+      "name": "Gin1689 Coin",
+      "symbol": "GIN1689",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/gin1689.svg",
+      "introduction": "Gin 1689 guarantees authenticity and direct sourcing, ensuring each bottle is genuine and trustworthy.",
+      "twitter": "gin1689",
+      "circulatingSupply": 9242889
+    },
+    {
+      "chainId": 18686,
+      "address": "0x432DA7aC74e83417d4c683ff283bBB8F7E8B09b8",
+      "name": "Crab Token",
+      "symbol": "CRAB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/crab.svg",
+      "introduction": "Crab Token, IoT, NFT innovation empowers agriculture. Precision, real-time monitoring, blockchain integration for crab breeding. Future of smart farming.",
+      "twitter": "mxcfoundation",
+      "circulatingSupply": 18087181
+    },
+    {
+      "chainId": 18686,
+      "address": "0x7eB14d2cF852aD5E20dd46Af3D2ddA87A1E67bAf",
+      "name": "Maxis Token",
+      "symbol": "MAXIS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg",
+      "introduction": "MAXIS Token, Symbolizes unique MXC Kicks, blockchain-linked shoes. MAXIS Coin marks an exclusive shoe collection release.",
+      "twitter": "mxcfoundation",
+      "circulatingSupply": 3298929
+    },
+    {
+      "chainId": 18686,
+      "address": "0xD9465eF5f7DF27Ac960D90d1d796c66C9234a264",
+      "name": "xMXC Token",
+      "symbol": "xMXC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
+      "introduction": "xMXC Token powers miners by fueling them up with xMXC, boosting mining performance up to 10x, optimizing mining operations.",
+      "twitter": "mxcfoundation",
+      "circulatingSupply": 0
+    },
+    {
+      "chainId": 18686,
+      "address": "0x84AB8c50d33C08B079A10883eD7d1f563990DFE4",
+      "name": "xbMXC Token",
+      "symbol": "xbMXC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0xe477ad7a379d285337762441c1f628b6818D6d23",
+      "name": "DHX Token",
+      "symbol": "DHX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dhx.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0x6c1664332EFdAd3517cDfBA99c0435098428c4bA",
+      "name": "XDIGI Token",
+      "symbol": "XDG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0xbccae479722530Ff9326FEc0cE8c15B4a79C6bD8",
+      "name": "TAILZ Coin",
+      "symbol": "TAIL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/tailz.svg",
+      "introduction": "Tailz established in 2022, is a ecosystem connecting Web3 enthusiasts with their pets, offering crypto rewards for pet walks. Redefining bonding with your pets.",
+      "twitter": "tailz_xyz",
+      "circulatingSupply": 113706203
+    },
+    {
+      "chainId": 18686,
+      "address": "0x5eB8Fa4664CD67aFD43B3b1666AAFe0c6d11ca6C",
+      "name": "Crypto Turtle",
+      "symbol": "TURTLE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/turtle.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0xaF0B5b9eDEdf8B5e4F4b1062266Da104d0a2F48E",
+      "name": "DePIN  Coin",
+      "symbol": "DePIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/depin.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0xf3D68dCE54d03d648c1D2e7475e3247942C69EF1",
+      "name": "REFI Coin",
+      "symbol": "REFI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/20231206214715.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0x0A9400Eacfe9fd1C7C1bEa54689Bac1dD740e44C",
+      "name": "ChangShi Tea",
+      "symbol": "TEA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/csTea.svg",
+      "introduction": "Founded in 2018, Chang Shi Tea specializes in Pu'er tea, aiming to promote Chinese tea culture and create unique experiences, pioneering in tea NFTs using MXC IoT. Follow us @ChangShiTea",
+      "twitter": "ChangShiTea",
+      "circulatingSupply": 21000000
+    },
     {
       "chainId": 18686,
       "address": "0x928ACF6F490390492e274DF53523C224DeBc9735",
@@ -173,19 +173,26 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dp.svg"
     },
-	{
-		  "chainId": 18686,
-		  "address": "0xaB3Cf41BFc8e4FEf499aa07D55abc31188869c80",
-		  "name": "Cancun Deneb",
-		  "symbol": "Dencun",
-		  "decimals": 18,
-		  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/decun.svg"
-	}
-		
-    ],
-    "version": {
-      "major": 2,
-      "minor": 0,
-      "patch": 0
+    {
+      "chainId": 18686,
+      "address": "0xaB3Cf41BFc8e4FEf499aa07D55abc31188869c80",
+      "name": "Cancun Deneb",
+      "symbol": "Dencun",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/decun.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0xC2939d9228B4E87784A10951a2130C5a7B2030a3",
+      "name": "smart-P",
+      "symbol": "smart-P",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/smartP.svg"
     }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
   }
+}
