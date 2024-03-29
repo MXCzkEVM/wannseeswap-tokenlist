@@ -2,125 +2,74 @@
   "name": "Sensor Tokens",
   "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.svg",
   "keywords": [
-    "wannsee",
+    "geneva",
     "defi"
   ],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 5167003,
-      "address": "0x6807F4B0D75c59Ef89f0dbEF9841Fb23fFDF105D",
+      "chainId": 5167004,
+      "address": "0xa5c0d0d32b41473c581a979deab01651d1f5eff5",
       "name": "Wrap MXC Token",
       "symbol": "WMXC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
-      "introduction":"for test",
-      "twitter":"mxcfoundation",
-      "circulatingSupply":1000
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
     },
     {
-      "chainId": 5167003,
-      "address": "0xdCc959e6e731b1CcA695a9e28D39103Bd0ecdb05",
-      "name": "Digi Token",
-      "symbol": "DG",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x22Ec679a09254C86bCFB076080D8cedc24b878a0",
-      "name": "Doge Token",
-      "symbol": "Doge",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/doge.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0xe5A4750553FEd2d328c69820bdEEee36E618f024",
-      "name": "Crypto Turtle",
-      "symbol": "Turtle",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/turtle.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0xB9506A80429Ee619C74D46a3276c622358795e2B",
-      "name": "XSD Token",
-      "symbol": "XSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x499A9b11b3A107e7ac45217C3401b3D0bF36A24C",
+      "chainId": 5167004,
+      "address": "0x817bdF595d88e5b0165993E4a6AF04F092584Fb7",
       "name": "Ride Token",
       "symbol": "RIDE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/ride.svg"
     },
     {
-      "chainId": 5167003,
-      "address": "0x850e2d6329C0A99d53C52571CFc7ff8C319159fe",
+      "chainId": 5167004,
+      "address": "0xfc460a57287fAc522F2793031Cb6B6fF461CDd62",
       "name": "Park Token",
       "symbol": "PARK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/park.svg"
     },
     {
-      "chainId": 5167003,
-      "address": "0x8bC7cf83f5F83781Ec85B78d866222987Ae24657",
-      "name": "DHX Token",
-      "symbol": "DHX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dhx.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x4c313363116cdfFA82B48225a634C359f8681aA5",
+      "chainId": 5167004,
+      "address": "0x727A7734afBB01C20681Cdd4F68b98F53ddD521b",
       "name": "Sensor Token",
       "symbol": "Sensor",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/sensor.svg"
     },
     {
-      "chainId": 5167003,
-      "address": "0x3200b5Aa2C27bd0771F9E1378b175d2729d53402",
+      "chainId": 5167004,
+      "address": "0x1736Fe85010313251a99A66f8600e817Ac4aE126",
       "name": "Gin1689 Coin",
       "symbol": "GIN1689",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/gin1689.svg"
     },
     {
-      "chainId": 5167003,
-      "address": "0xE642170eE88889e3539567C467474e09f10D6e30",
+      "chainId": 5167004,
+      "address": "0xD9EeC15002fF7467a6841EDF6ea2D1048BaBc7c4",
       "name": "Crab Token",
       "symbol": "CRAB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/crab.svg"
     },
     {
-      "chainId": 5167003,
-      "address": "0x1c457428fA7fdE811641688029869a545121C00c",
+      "chainId": 5167004,
+      "address": "0x4a857D3ADFf611Dc87593a82d1129bAc1cf2eB1D",
       "name": "Maxis Token",
       "symbol": "MAXIS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg"
     },
     {
-      "chainId": 5167003,
-      "address": "0x230237d65e5726a28960b9A39359712Dbb8df08c",
+      "chainId": 5167004,
+      "address": "0x98b114269C2635ff2cB03F0526feb246d1082B4C",
       "name": "xMXC",
       "symbol": "xMXC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x757A1Be6Fca18b9F3716DC06cbE744A48BB1e0B0",
-      "name": "TAILZ Coin",
-      "symbol": "TAIL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/tailz.svg"
     }
   ],
   "version": {
