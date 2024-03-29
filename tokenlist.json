@@ -17,22 +17,6 @@
     },
     {
       "chainId": 5167004,
-      "address": "0x817bdF595d88e5b0165993E4a6AF04F092584Fb7",
-      "name": "Ride Token",
-      "symbol": "RIDE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/ride.svg"
-    },
-    {
-      "chainId": 5167004,
-      "address": "0xfc460a57287fAc522F2793031Cb6B6fF461CDd62",
-      "name": "Park Token",
-      "symbol": "PARK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/park.svg"
-    },
-    {
-      "chainId": 5167004,
       "address": "0x727A7734afBB01C20681Cdd4F68b98F53ddD521b",
       "name": "Sensor Token",
       "symbol": "Sensor",
