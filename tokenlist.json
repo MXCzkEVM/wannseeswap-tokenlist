@@ -54,6 +54,14 @@
       "symbol": "xMXC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+    },
+    {
+      "chainId": 5167004,
+      "address": "0x9fC039CcDed4943B48eAE01976c2D687F204DA07",
+      "name": "DIGIToken",
+      "symbol": "DIGI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
     }
   ],
   "version": {
