@@ -17,6 +17,17 @@
     },
     {
       "chainId": 5167004,
+      "address": "0xd28fce81516dcc53d2e320fd1c78e8449556c4f0",
+      "name": "XSD Token",
+      "symbol": "XSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg",
+      "introduction": "XSD is MXC's pioneering stablecoin backed by tangible assets, an un-depeggable token, ensuring a constant $ value.",
+      "twitter": "mxcfoundation",
+      "circulatingSupply": 1075965
+    },
+    {
+      "chainId": 5167004,
       "address": "0x727A7734afBB01C20681Cdd4F68b98F53ddD521b",
       "name": "Sensor Token",
       "symbol": "Sensor",
