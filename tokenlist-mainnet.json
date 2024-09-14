@@ -1,6 +1,6 @@
 {
   "name": "Sensor Tokens",
-  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.svg",
+  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/moonchain.svg",
   "keywords": [
     "zkEVM Mainnet",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Wrap MXC Token",
       "symbol": "WMXC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/moonchain.svg",
       "introduction": "Meta X Connect is a Layer3 scalability solution for Arbitrum with their zkEVM, allowing users to seamlessly onboard IoT devices to blockchain.",
       "twitter": "mxcfoundation",
       "circulatingSupply": 0
