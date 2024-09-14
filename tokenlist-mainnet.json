@@ -188,6 +188,14 @@
       "symbol": "smart-P",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/smartP.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0xaF96fb3CE523B1A18369cdf31D86b3BEAC938Ba5",
+      "name": "Smart",
+      "symbol": "Smart",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/smart.svg"
     }
   ],
   "version": {
