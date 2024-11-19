@@ -196,6 +196,17 @@
       "symbol": "Smart",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/smart.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0xa849094DdDcb820AB177f17A57Fe3aA968bB28F1",
+      "name": "Blueberry Token",
+      "symbol": "Blueberry",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/blueberry.svg",
+      "introduction": "BlueBerry Ring is a pioneering Web3 wearable device that combines AI-powered health diagnostics and predictive analytics with cryptocurrency mining capabilities. Built on Moonchain technology, it's the first smart ring to integrate these advanced features in the Web3 space.",
+      "twitter": "https://x.com/blueberryring",
+      "circulatingSupply": 40000000
     }
   ],
   "version": {
