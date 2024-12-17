@@ -90,7 +90,7 @@
       "name": "xMXC Token",
       "symbol": "xMXC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg",
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/moonchain.svg",
       "introduction": "xMXC Token powers miners by fueling them up with xMXC, boosting mining performance up to 10x, optimizing mining operations.",
       "twitter": "mxcfoundation",
       "circulatingSupply": 0
@@ -101,7 +101,7 @@
       "name": "xbMXC Token",
       "symbol": "xbMXC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/moonchain.svg"
     },
     {
       "chainId": 18686,
