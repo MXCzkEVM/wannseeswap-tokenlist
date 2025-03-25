@@ -211,7 +211,7 @@
     {
       "chainId": 18686,
       "address": "0x66ae1B54e2bBE8DFeBB3b49f3E9e1Ce8bc9e6c3a",
-      "name": "Dogecoin (Universal)",
+      "name": "Dogecoin(Universal)",
       "symbol": "uDOGE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/udoge.svg"
@@ -219,7 +219,7 @@
     {
       "chainId": 18686,
       "address": "0x593F7dDbf7ccfcEFa6592dfE7AAF728ebD29ee0d",
-      "name": "Polkadot (Universal)",
+      "name": "Polkadot(Universal)",
       "symbol": "uDOT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/udot.svg"
