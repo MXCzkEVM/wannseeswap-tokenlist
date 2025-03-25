@@ -199,6 +199,22 @@
     },
     {
       "chainId": 18686,
+      "address": "0x66ae1B54e2bBE8DFeBB3b49f3E9e1Ce8bc9e6c3a",
+      "name": "Dogecoin Universal",
+      "symbol": "uDOGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/udoge.svg"
+    },
+    {
+      "chainId": 18686,
+      "address": "0x593F7dDbf7ccfcEFa6592dfE7AAF728ebD29ee0d",
+      "name": "Polkadot Universal",
+      "symbol": "uDOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/udot.svg"
+    },
+    {
+      "chainId": 18686,
       "address": "0xd03839Ab0d2906846bd99Db5263953515B8F9FAc",
       "name": "Blueberry Token",
       "symbol": "Blueberry",
@@ -207,22 +223,6 @@
       "introduction": "BlueBerry Ring is a pioneering Web3 wearable device that combines AI-powered health diagnostics and predictive analytics with cryptocurrency mining capabilities. Built on Moonchain technology, it's the first smart ring to integrate these advanced features in the Web3 space.",
       "twitter": "https://x.com/blueberryring",
       "circulatingSupply": 40000000
-    },
-    {
-      "chainId": 18686,
-      "address": "0x66ae1B54e2bBE8DFeBB3b49f3E9e1Ce8bc9e6c3a",
-      "name": "Dogecoin(Universal)",
-      "symbol": "uDOGE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/udoge.svg"
-    },
-    {
-      "chainId": 18686,
-      "address": "0x593F7dDbf7ccfcEFa6592dfE7AAF728ebD29ee0d",
-      "name": "Polkadot(Universal)",
-      "symbol": "uDOT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/udot.svg"
     }
   ],
   "version": {
